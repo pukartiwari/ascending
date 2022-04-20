@@ -1,3 +1,4 @@
+//wap to convert the number into ascending order using function template.
 #include<iostream>
 using namespace std;
 template <typename T>
